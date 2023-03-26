@@ -97,6 +97,11 @@ body
 	line-height: 150%;
 }
 
+.zdjencie
+{
+		positon: absolute;
+}	
+
 .tile4:hover
 {
 	background-color: #dd4921;
